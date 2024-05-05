@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+	
+}
+
+img.d-block.w-100{
+    width: 80%;
+  }
+
+/*nav-------------------------------------------------------------------------------*/
+
+.page-nav{
+	
+	background-color: white;
+	display: flex;
+}
+
+
+li{
+	background-color: white;
+	color: black;
+	margin-left: 20px;
+	justify-content: flex-start;
+	float: left;
+	margin-top: 40px ;
+	list-style-type: none;
+	transition-duration: 0.5s;
+	align-items: center;
+	transform: translateY(-20px);
+	margin-left: 20px;
+
+}
+
+li:hover{
+	color:lightblue ;
+
+	
+}
+
+
+ul,form{
+	background-color: white;
+	
+}
+
+input{
+	outline: none;
+	margin-left: 300px;
+	margin-top: 20px;
+	float: left;
+}
+
+
+.icon{
+	width: 100px;
+	margin-left: 10px;
+	background-color: inherit;
+	transform: translateY(10px);
+
+}
+
+

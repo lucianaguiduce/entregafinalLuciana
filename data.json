@@ -1,0 +1,7 @@
+[
+	{"id":1,"nombre":"Clase Grupal","precio":16000,  "cantidad":1, "img":"./imagenes/natacion3.jpg"},
+	{"id":2,"nombre":"Clase individual","precio":20000, "cantidad":1, "img":"./imagenes/natacion2.webp"},
+	{"id":3, "nombre":"Pileta libre","precio":24000,   "cantidad":1, "img":"./imagenes/Pileta-1.jpg"},
+	{"id":4,  "nombre":"Acceso al Club ilimitado","precio":30000, "cantidad":1, "img":"./imagenes/clubpileta.jpg"}
+	
+]
